@@ -2,7 +2,7 @@
 I'm a CTO/VP of Engineering currently focusing on AI. I currently live in Toronto, Ontario, Canada. I spend a lot of time learning new things, coding and playing chess.
 
 * 🎓 I went to University of Toronto. I have my CISSP.
-* 🔭 I'm currently building multiple projects in AI.
+* 🔭 Coding daily.
 * 📝 I write a lot! You can visit my blog at engineeringlead.substack.com
 * 🌱 Forever intellectually curious
 * 📫 I'm best reached via email. I'm always open to interesting conversations and collaboration.
